@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/foccos/static/css/main.b23e09b6.css",
+    "main.js": "/foccos/static/js/main.3929449d.js",
+    "static/media/logo.png": "/foccos/static/media/logo.e95ccb248fed49c2fdd7.png",
+    "index.html": "/foccos/index.html",
+    "main.b23e09b6.css.map": "/foccos/static/css/main.b23e09b6.css.map",
+    "main.3929449d.js.map": "/foccos/static/js/main.3929449d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b23e09b6.css",
+    "static/js/main.3929449d.js"
+  ]
+}
